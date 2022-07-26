@@ -7,7 +7,6 @@
 - 💬 Ask me about Frontend web development
 - 📫 How to reach me: twitter
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: I'm open to learning new technology
 
 ## Tech Stack
 
