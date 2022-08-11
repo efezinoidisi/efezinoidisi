@@ -4,9 +4,10 @@
 - 🔭 I am Idisi Efezino Endurance
 - 🌱 I’m currently learning Javascript and Python
 - 👯 I’m looking to collaborate on any frontend project
-- 💬 Ask me about Frontend web development
 - 📫 How to reach me: twitter
 - 😄 Pronouns: She/her
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=efezinoidisi&theme=highcontrast&show_icons=true&count_private=true)
 
 ## Tech Stack
 
@@ -22,4 +23,4 @@
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/_zeetech)
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=efezinoidis&layout=compact)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=efezinoidisi&layout=compact)
