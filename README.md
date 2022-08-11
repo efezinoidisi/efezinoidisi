@@ -21,3 +21,5 @@
 ## Contact Me
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/_zeetech)
+
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=efezinoidis&layout=compact)
