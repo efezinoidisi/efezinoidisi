@@ -2,7 +2,6 @@
 
 
 - 🔭 I am Idisi Efezino Endurance
-- 🌱 I’m currently learning Javascript and Python
 - 👯 I’m looking to collaborate on any frontend project
 - 📫 How to reach me: twitter
 - 😄 Pronouns: She/her
