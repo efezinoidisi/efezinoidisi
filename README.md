@@ -3,7 +3,7 @@
 
 - 🔭 I am Idisi Efezino Endurance
 - 👯 I’m looking to collaborate on any frontend project
-- 📫 How to reach me: twitter
+- 📫 How to reach me: send an email or connect with me on twitter
 - 😄 Pronouns: She/her
 - 😊 contact me if you need a volunteer for your frontend project
 
@@ -18,6 +18,6 @@
 
 ## Contact Me
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/_zeetech)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/_zeeknow)
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=efezinoidisi&layout=compact)
