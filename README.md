@@ -20,4 +20,5 @@
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/_zeeknow)
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=efezinoidisi&layout=compact)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=efezinoidisi&layout=compact)<br/>
+[![wakatime](https://wakatime.com/badge/user/f252e3fe-8713-4b21-9573-e8bd7fb18d70.svg)](https://wakatime.com/@f252e3fe-8713-4b21-9573-e8bd7fb18d70)
