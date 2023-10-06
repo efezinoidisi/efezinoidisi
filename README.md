@@ -7,7 +7,7 @@
 - 😄 Pronouns: She/her
 - 😊 contact me if you need a volunteer for your frontend project
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=efezinoidisi&theme=highcontrast&show_icons=true&count_private=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=efezinoidisi&theme=synthwave&show_icons=true&count_private=true)
 
 ## Tech Stack
 
