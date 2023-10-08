@@ -1,11 +1,8 @@
 ## Hi there 👋
 
 
-- 🔭 I am Idisi Efezino Endurance
-- 👯 I’m looking to collaborate on any frontend project
-- 📫 How to reach me: send an email or connect with me on twitter
-- 😄 Pronouns: She/her
-- 😊 contact me if you need a volunteer for your frontend project
+- 🔭 I'm Idisi Efezino Endurance
+- 📫 A frontend developer
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=efezinoidisi&theme=synthwave&show_icons=true&count_private=true)
 
