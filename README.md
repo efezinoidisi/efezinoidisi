@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-- 🔭 I'm Idisi Efezino Endurance
+- 🔭 I'm Efezino
 - 📫 A frontend developer
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=efezinoidisi&theme=synthwave&show_icons=true&count_private=true)
